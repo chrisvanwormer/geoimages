@@ -1,0 +1,17 @@
+{
+  "name": "geoimages",
+  "homepage": "https://github.com/chrisvanwormer/geoimages",
+  "authors": [
+    "Christofer VanWormer <cvanwormer@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
